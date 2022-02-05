@@ -31,13 +31,78 @@ Students are asked to submit their answers to the Student Information Form ([PDF
 
 **Required assignments and their weight for determining your final 14.20 grade:**
 
-| WEIGHT IN FINAL GRADE | REQUIRED ASSIGNMENT |
-| --- | --- |
-| 5% |  {{< br >}}{{< br >}} **Participation in Class Discussion** (cumulated over term)  {{< br >}}This requires your attendance at lectures and completing readings in advance! There will often be discussion questions handed out prior to a lecture. Students may be asked to present their responses on a spot basis. {{< br >}}{{< br >}}  |
-| 15% | **Group Project: Competitive Strategy Game  {{< br >}}**Weekly Strategy Submissions  {{< br >}}Final write-up due on Lec #36. |
-| 20% | **4 Problem Sets** handed out during the term.  {{< br >}}You may discuss problem sets and work out solutions together, however:  {{< br >}}PROBLEM SETS MUST BE WRITTEN UP INDIVIDUALLY.  {{< br >}}ALL identical write-ups on problem sets will be given "0" credit. |
-| 20% | **Midterm Exam** (closed book): Covers Material Through Lec #17  {{< br >}}Due on Lec #18 in class. |
-| 40% | **Final Exam** (closed book): Comprehensive  {{< br >}}**Scheduled During Finals Week** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEIGHT IN FINAL GRADE
+{{< thclose >}}
+{{< thopen >}}
+REQUIRED ASSIGNMENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Participation in Class Discussion** (cumulated over term)  
+This requires your attendance at lectures and completing readings in advance! There will often be discussion questions handed out prior to a lecture. Students may be asked to present their responses on a spot basis.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+**Group Project: Competitive Strategy Game  
+**Weekly Strategy Submissions  
+Final write-up due on Lec #36.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+**4 Problem Sets** handed out during the term.  
+You may discuss problem sets and work out solutions together, however:  
+PROBLEM SETS MUST BE WRITTEN UP INDIVIDUALLY.  
+ALL identical write-ups on problem sets will be given "0" credit.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+**Midterm Exam** (closed book): Covers Material Through Lec #17  
+Due on Lec #18 in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+**Final Exam** (closed book): Comprehensive  
+**Scheduled During Finals Week**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Expectations
 ------------

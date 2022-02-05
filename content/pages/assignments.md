@@ -7,44 +7,526 @@ uid: d6fd96c4-a325-c6a7-8861-5b70d9a2738a
 PS = Problem Set  
 CSG = Competitive Strategy Game
 
-| LEC # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Overview & Review | Cemex Discussion Questions ([PDF]({{< baseurl >}}/resources/cemex_discussion_questions)) |
-| 2 | Recitation: Regression Basics | &nbsp; |
-| 3 | Monopoly & Dominant Firms | Cemex Discussion |
-| 4 | Game Theory 1: Static Models | Game Handout Due ([PDF]({{< baseurl >}}/resources/game_handout))  {{< br >}}  {{< br >}}PS 1 Out {{< br >}}{{< br >}} *   PS1 ([PDF]({{< baseurl >}}/resources/ps1)){{< br >}}     {{< br >}}{{< br >}}  |
-| 5 | Recitation: Competitive Strategy Game | &nbsp; |
-| 7 | Game Theory II: Dynamic Games | GE Case Questions ([PDF]({{< baseurl >}}/resources/ge_discussion_questions)) |
-| 8 | Recitation: Dynamic Games | PS 1 Due |
-| 9 | Tacit Collusion: GE-Westinghouse HBS Case | GE Case Discussion  {{< br >}}  {{< br >}}CSG 1 Due |
-| 10 | Facilitating Practices & Cartel Introduction | OPEC Questions |
-| 11 | Recitation: Dynamic Games | &nbsp; |
-| 12 | Cartels & Price-fixing; Antitrust Law | OPEC Discussion  {{< br >}}  {{< br >}}PS 2 Out (include pricing questions) {{< br >}}{{< br >}} *   PS2 ([PDF]({{< baseurl >}}/resources/ps2)){{< br >}}*   PS2 Solutions ([PDF]({{< baseurl >}}/resources/ps2_sol)) {{< br >}}{{< br >}} CSG 2 Due |
-| 13 | Antitrust Policy: Mergers & Monopolization | &nbsp; |
-| 14 | Recitation: Cartels | &nbsp; |
-| 15 | Measuring Market Power | CSG 3 Due |
-| 16 | Oligopoly Pricing Strategies I | Pricing Discussion  {{< br >}}  {{< br >}}PS 2 Due |
-| 17 | Recitation: Exam 1 Review, PS 2 solutions | &nbsp; |
-| 18 | Oligopoly Pricing Strategies II | CSG 4 Due |
-| 19 | &nbsp; | [Mid-term Exam]({{< baseurl >}}/pages/exams) |
-| 20 | Oligopoly Pricing Strategies III | CSG 5 Due |
-| 21 | Entry | PS 3 Out ([PDF]({{< baseurl >}}/resources/ps3))  {{< br >}}  {{< br >}}Titanium Dioxide Questions |
-| 22 | Recitation | &nbsp; |
-| 23 | Entry Deterrence | Titanium Dioxide Discussion  {{< br >}}  {{< br >}}AMR Questions  {{< br >}}  {{< br >}}CSG 6 Due |
-| 24 | Predatory Pricing | AMR Case Discussion |
-| 25 | Recitation | &nbsp; |
-| 26 | Raising Rivals' Costs | PS 3 Due  {{< br >}}  {{< br >}}Cereal Questions  {{< br >}}  {{< br >}}CSG 7 Due |
-| 27 | Product Choice 1: Spatial Models & Cereal | Cereal Discussion |
-| 28 | Recitation: Spatial Competition Models; PS 3 | &nbsp; |
-| 29 | Product Choice 2: Quality, Durability & Networks | PS 4 Out {{< br >}}{{< br >}} *   PS4 ([PDF]({{< baseurl >}}/resources/ps4)){{< br >}}*   PS4 Solutions ([PDF]({{< baseurl >}}/resources/ps4_sol)) {{< br >}}{{< br >}} CSG 8 Due |
-| 30 | Recitation | &nbsp; |
-| 31 | Advertising | CSG 9 Due |
-| 32 | R&D | &nbsp; |
-| 33 | Recitation | &nbsp; |
-| 34 | Internal Organization 1: Firm Boundaries | PS 4 Due  {{< br >}}  {{< br >}}CSG 10 Due |
-| 35 | Internal Organization 2: Firm Behavior | &nbsp; |
-| 36 | Recitation: CSG Debriefing | CSG Write-up Due  ([PDF]({{< baseurl >}}/resources/csg_writeup))  {{< br >}}  {{< br >}}Industry Discussion Questions Out |
-| 37 | Vertical Structure | &nbsp; |
-| 38 | Industry Discussion | &nbsp; |
-| 39 | Review for Final Exam | &nbsp; |
-| 40 | &nbsp; | [Final Exam]({{< baseurl >}}/pages/exams)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview & Review
+{{< tdclose >}}
+{{< tdopen >}}
+Cemex Discussion Questions ([PDF]({{< baseurl >}}/resources/cemex_discussion_questions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Regression Basics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Monopoly & Dominant Firms
+{{< tdclose >}}
+{{< tdopen >}}
+Cemex Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Game Theory 1: Static Models
+{{< tdclose >}}
+{{< tdopen >}}
+Game Handout Due ([PDF]({{< baseurl >}}/resources/game_handout))  
+  
+PS 1 Out
+
+*   PS1 ([PDF]({{< baseurl >}}/resources/ps1))
+    
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Competitive Strategy Game
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Game Theory II: Dynamic Games
+{{< tdclose >}}
+{{< tdopen >}}
+GE Case Questions ([PDF]({{< baseurl >}}/resources/ge_discussion_questions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Dynamic Games
+{{< tdclose >}}
+{{< tdopen >}}
+PS 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tacit Collusion: GE-Westinghouse HBS Case
+{{< tdclose >}}
+{{< tdopen >}}
+GE Case Discussion  
+  
+CSG 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Facilitating Practices & Cartel Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+OPEC Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Dynamic Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cartels & Price-fixing; Antitrust Law
+{{< tdclose >}}
+{{< tdopen >}}
+OPEC Discussion  
+  
+PS 2 Out (include pricing questions)
+
+*   PS2 ([PDF]({{< baseurl >}}/resources/ps2))
+*   PS2 Solutions ([PDF]({{< baseurl >}}/resources/ps2_sol))
+
+CSG 2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Antitrust Policy: Mergers & Monopolization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Cartels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Measuring Market Power
+{{< tdclose >}}
+{{< tdopen >}}
+CSG 3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Oligopoly Pricing Strategies I
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing Discussion  
+  
+PS 2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Exam 1 Review, PS 2 solutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Oligopoly Pricing Strategies II
+{{< tdclose >}}
+{{< tdopen >}}
+CSG 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-term Exam]({{< baseurl >}}/pages/exams)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Oligopoly Pricing Strategies III
+{{< tdclose >}}
+{{< tdopen >}}
+CSG 5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Entry
+{{< tdclose >}}
+{{< tdopen >}}
+PS 3 Out ([PDF]({{< baseurl >}}/resources/ps3))  
+  
+Titanium Dioxide Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Entry Deterrence
+{{< tdclose >}}
+{{< tdopen >}}
+Titanium Dioxide Discussion  
+  
+AMR Questions  
+  
+CSG 6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Predatory Pricing
+{{< tdclose >}}
+{{< tdopen >}}
+AMR Case Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Raising Rivals' Costs
+{{< tdclose >}}
+{{< tdopen >}}
+PS 3 Due  
+  
+Cereal Questions  
+  
+CSG 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Product Choice 1: Spatial Models & Cereal
+{{< tdclose >}}
+{{< tdopen >}}
+Cereal Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Spatial Competition Models; PS 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Product Choice 2: Quality, Durability & Networks
+{{< tdclose >}}
+{{< tdopen >}}
+PS 4 Out
+
+*   PS4 ([PDF]({{< baseurl >}}/resources/ps4))
+*   PS4 Solutions ([PDF]({{< baseurl >}}/resources/ps4_sol))
+
+CSG 8 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising
+{{< tdclose >}}
+{{< tdopen >}}
+CSG 9 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+R&D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Internal Organization 1: Firm Boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+PS 4 Due  
+  
+CSG 10 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Internal Organization 2: Firm Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: CSG Debriefing
+{{< tdclose >}}
+{{< tdopen >}}
+CSG Write-up Due  ([PDF]({{< baseurl >}}/resources/csg_writeup))  
+  
+Industry Discussion Questions Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Vertical Structure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Industry Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Exam]({{< baseurl >}}/pages/exams)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
